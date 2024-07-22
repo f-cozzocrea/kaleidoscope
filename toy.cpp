@@ -77,3 +77,6 @@ static int gettok() {
   return ThisChar;
 }
 
+int main() {
+  return 0;
+}
